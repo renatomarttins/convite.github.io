@@ -1,0 +1,33 @@
+body {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    height: 100vh;
+    background-color: black;
+    background-image: url(8e1e6b1a770c005888cb55487c4237dc.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+main {
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    max-width: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    border: 2px solid darkblue;
+    border-radius: 15px;
+}
+
+.hero img {
+    width: 400px;
+}
+audio {
+    border: 2px solid darkblue;
+    border-radius: 15px;
+}
+
